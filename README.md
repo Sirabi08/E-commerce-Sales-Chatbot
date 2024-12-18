@@ -39,23 +39,26 @@ Install the required dependencies:
 For Python
 ```bash
  pip install -r requirements.txt
-
+ ```
 For Node.js (if applicable):
 
    ```bash
 npm install
+  ```
 Set up your environment variables for database connection and API keys.
 
 Run the application:
 
 For Python:
-bash
-Copy code
+```bash
+
 python app.py
+```
 For Node.js:
-bash
-Copy code
+```bash
+
 npm start
+```
 Usage
 Open the chatbot interface in your browser or integrate it into your e-commerce website.
 Start chatting with the bot to explore the features like product search, order tracking, and more.
