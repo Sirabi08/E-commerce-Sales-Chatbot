@@ -36,13 +36,13 @@ Copy code
 cd ecommerce_chatbot
 Install the required dependencies:
 
-For Python:
-bash
-Copy code
-pip install -r requirements.txt
+For Python
+```bash
+ pip install -r requirements.txt
+
 For Node.js (if applicable):
-bash
-Copy code
+
+   ```bash
 npm install
 Set up your environment variables for database connection and API keys.
 
